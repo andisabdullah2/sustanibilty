@@ -65,6 +65,7 @@ h6 {
   color: #fff;
 }
 
+
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
@@ -1004,7 +1005,6 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding-bottom: 30px;
   }
 }
-
 @media (max-width: 767px) {
   #intro .intro-content h2 {
     font-size: 34px;
