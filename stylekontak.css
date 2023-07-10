@@ -86,100 +86,37 @@ body {
     text-align: justify;
   }
 
-
-  #artikel #button img {
-    width: 35px;
-    height: 35px;
-  }
-
-  #artikel img {
+  #pesan input{
     width: 100%;
-
-  }
-  #artikel #button {
-    width: 160px;
+    background-color: #ADFDBA;
     height: 50px;
-    border: none;
-    background-color: #5EEB1C;
+    margin-top: 30px;
+    padding-left: 20px;
     border-radius: 10px;
-  }
-  
-  .judulartikel h6 {
-    text-align: right;
+ }
+ #pesan h3{
+    font-weight: bold;
+    padding-top: 60px;
+ }
 
-  }
-
-  .judulartikel h4 {
-    font-weight: 600;
-    position: relative;
-  }
-
-  .deskripsiartikel h6 {
-    position: relative;
-    font-size: 20px;
-    line-height: 40px;
-    text-align: justify;
-  }
-  
-  
-  .judulartikel h2::before {
-    content: '';
-    position: absolute;
-    display: block;
-    width: 100%;
-    height: 1px;
-    background: black;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
-  }
-
-  #artikel-lainnya #button img {
-    width: 15px;
-    height: 15px;
-  }
-
-  #artikel-lainnya #button {
-    width: 140px;
-    height: 45px;
-    border: none;
-    background-color: #5EEB1C;
-    border-radius: 10px;
-  }
-
-  #artikel-lainnya img {
-    width: 100%;
-    height: 300px;
-  }
-
-  #artikel-lainnya .judulartikel h6 {
-    text-align: right;
-  }
-
-  #artikel-lainnya .judulartikel h4 {
-    font-size: 18px;
-    font-weight: 600;
-    position: relative;
-  }
-
-  #artikel-lainnya .deskripsiartikel h6 {
-    position: relative;
-    font-size: 14px;
-    text-align: justify;
-  }
-  
-  
-  #artikel-lainnya .judulartikel h2::before {
-    content: '';
-    position: absolute;
-    display: block;
-    width: 100%;
-    height: 1px;
-    background: black;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
-  }
+ #hubungi {
+    padding-left: 30px;
+ }
+ #hubungi img{
+    width: 50px;
+    height: 30px;
+    padding-right: 20px;
+ }
+ #hubungi a{
+    color: black;
+    font-weight: 700;
+    margin-top: 40px;
+ }
+ #hubungi h3{
+    font-weight: bold;
+    padding-top: 60px;
+    margin-bottom: 50px;
+ }
   /*--------------------------------------------------------------
   # Header
   --------------------------------------------------------------*/
